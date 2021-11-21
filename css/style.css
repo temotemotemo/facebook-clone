@@ -55,6 +55,7 @@
 	border-radius: 8px;
 	border: 1px #00000036 solid ;
 }
+
 .button{
 	background-color: #0066ffe3;
 	height: 50px;
@@ -77,7 +78,7 @@
 
 .new-account{
 	text-align: center;
-    background-color: green;
+    background-color: #2abf2f;
     height: 48px;
     width: 237px;
     margin: 0 auto;
@@ -85,4 +86,12 @@
     margin-top: 28px;
     border-radius: 9px;
     color: white;
+}
+.last{
+	right: 31px;
+    bottom: 91px;
+}
+.for-bussines{
+	text-align: center;
+    margin-top: 54px;
 }
